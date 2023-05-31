@@ -1,6 +1,3 @@
-# God-s-EYE
-An intelligent phishing detector - Chrome extenmsion - using Machine learning
-
 <!DOCTYPE html>
 <html>
 
@@ -162,4 +159,3 @@ An intelligent phishing detector - Chrome extenmsion - using Machine learning
 </body>
 
 </html>
-
