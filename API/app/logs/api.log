@@ -1,0 +1,147 @@
+2023-05-27 12:26:13,751 - INFO - Received URL: https://xhamster2.com/
+2023-05-27 12:26:13,751 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-27 12:26:13,835 - INFO - Prediction: 61.858
+2023-05-27 12:26:57,000 - INFO - Received URL: https://xhamster2.com/
+2023-05-27 12:26:57,000 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-27 12:26:57,087 - INFO - Prediction: 61.858
+2023-05-27 12:27:35,089 - INFO - Received URL: https://xhamster2.com/
+2023-05-27 12:27:35,090 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-27 12:27:35,187 - INFO - Prediction: 61.858
+2023-05-27 12:28:03,397 - INFO - Received URL: https://www.google.com/search?q=youtube&rlz=1C1KNTJ_enLK1047LK1047&oq=youtube&aqs=chrome.0.0i271j46i131i199i433i465i512j0i131i433i512l3j0i512j0i131i433i512j5.2674j0j7&sourceid=chrome&ie=UTF-8
+2023-05-27 12:28:03,397 - INFO - Extracted features: [14, 7, 6, 1, 0, 1, 0, 5, 6, 1, 1, 1, 65, 103, 1, 1]
+2023-05-27 12:28:03,470 - INFO - Prediction: 80.321
+2023-05-27 12:28:34,794 - INFO - Received URL: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp
+2023-05-27 12:28:34,795 - INFO - Extracted features: [19, 10, 6, 0, 0, 1, 5, 4, 4, 2, 2, 0, 6, 111, 2, 1]
+2023-05-27 12:28:34,910 - INFO - Prediction: 8.696
+2023-05-27 12:28:35,840 - INFO - Received URL: https://accounts.google.com/signup/v2?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp
+2023-05-27 12:28:35,840 - INFO - Extracted features: [19, 10, 6, 0, 0, 1, 5, 4, 4, 2, 2, 0, 6, 111, 2, 1]
+2023-05-27 12:28:35,894 - INFO - Received URL: https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=SignUp
+2023-05-27 12:28:35,894 - INFO - Extracted features: [19, 27, 6, 0, 0, 1, 5, 4, 4, 2, 2, 0, 6, 127, 3, 1]
+2023-05-27 12:28:35,935 - INFO - Prediction: 8.696
+2023-05-27 12:28:35,983 - INFO - Prediction: 44.216
+2023-05-27 12:28:50,246 - INFO - Received URL: https://www.google.com/search?gs_ssp=eJzj4tTP1TewzEouK1ZgNGB0YPBir8wvLSlNSgUAUQAG7g&q=youtube&rlz=1C1KNTJ_enLK1047LK1047&oq=yo&aqs=chrome.1.0i67i131i355i433i650j46i67i131i199i433i465i650j46i67i650j46i67i131i433i650j0i67i131i433i650j0i131i433i512l2j5.3211j0j7&sourceid=chrome&ie=UTF-8
+2023-05-27 12:28:50,246 - INFO - Extracted features: [14, 7, 6, 1, 0, 1, 0, 5, 7, 1, 1, 1, 102, 155, 1, 1]
+2023-05-27 12:28:50,325 - INFO - Prediction: 99.665
+2023-05-27 12:29:30,978 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 12:29:30,979 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 12:29:31,051 - INFO - Prediction: 1.768
+2023-05-27 12:29:33,256 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 12:29:33,257 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 12:29:33,339 - INFO - Prediction: 1.768
+2023-05-27 12:29:33,544 - INFO - Received URL: https://www.youtube.com/?themeRefresh=1
+2023-05-27 12:29:33,544 - INFO - Extracted features: [15, 1, 0, 0, 0, 1, 0, 2, 1, 1, 1, 1, 1, 30, 1, 1]
+2023-05-27 12:29:33,627 - INFO - Prediction: 1.626
+2023-05-27 12:29:34,809 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 12:29:34,809 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 12:29:34,898 - INFO - Prediction: 1.768
+2023-05-27 12:29:40,255 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 12:29:40,255 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 12:29:40,256 - INFO - Received URL: https://www.youtube.com/watch?v=W8SFCuXJ8zc
+2023-05-27 12:29:40,256 - INFO - Extracted features: [15, 6, 5, 0, 0, 1, 0, 2, 1, 1, 1, 1, 2, 33, 1, 1]
+2023-05-27 12:29:40,368 - INFO - Prediction: 1.768
+2023-05-27 12:29:40,375 - INFO - Prediction: 0.927
+2023-05-27 12:37:36,005 - INFO - Received URL: https://www.youtube.com/watch?v=Uo1ndMFA9x8
+2023-05-27 12:37:36,005 - INFO - Extracted features: [15, 6, 5, 0, 0, 1, 0, 2, 1, 1, 1, 1, 3, 32, 1, 1]
+2023-05-27 12:37:36,106 - INFO - Prediction: 0.818
+2023-05-27 12:41:35,717 - INFO - Received URL: https://www.youtube.com/watch?v=ACj-rTkISEo
+2023-05-27 12:41:35,718 - INFO - Extracted features: [15, 6, 5, 1, 0, 1, 0, 2, 1, 1, 1, 1, 0, 34, 1, 1]
+2023-05-27 12:41:35,804 - INFO - Prediction: 1.332
+2023-05-27 12:58:17,880 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 12:58:17,881 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 12:58:17,957 - INFO - Prediction: 1.768
+2023-05-27 13:00:20,596 - INFO - Received URL: https://xhamster2.com/
+2023-05-27 13:00:20,596 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-27 13:00:20,698 - INFO - Prediction: 61.858
+2023-05-27 13:00:42,163 - INFO - Received URL: https://xhamster2.com/
+2023-05-27 13:00:42,163 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-27 13:00:42,234 - INFO - Prediction: 61.858
+2023-05-27 13:19:04,343 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:19:04,343 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:19:04,421 - INFO - Prediction: 1.768
+2023-05-27 13:21:44,734 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:21:44,735 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:21:44,814 - INFO - Prediction: 1.768
+2023-05-27 13:23:53,620 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:23:53,620 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:23:53,688 - INFO - Prediction: 1.768
+2023-05-27 13:26:50,871 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:26:50,872 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:26:50,939 - INFO - Prediction: 1.768
+2023-05-27 13:27:06,175 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:27:06,175 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:27:06,263 - INFO - Prediction: 1.768
+2023-05-27 13:27:06,266 - INFO - Received URL: https://www.youtube.com/watch?v=Ve2QdzyrHI0
+2023-05-27 13:27:06,266 - INFO - Extracted features: [15, 6, 5, 0, 0, 1, 0, 2, 1, 1, 1, 1, 2, 33, 1, 1]
+2023-05-27 13:27:06,348 - INFO - Prediction: 0.927
+2023-05-27 13:27:16,462 - INFO - Received URL: https://www.youtube.com/
+2023-05-27 13:27:16,462 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-27 13:27:16,553 - INFO - Prediction: 1.768
+2023-05-27 13:34:05,974 - INFO - Received URL: https://www.google.com/
+2023-05-27 13:34:05,974 - INFO - Extracted features: [14, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 17, 1, 1]
+2023-05-27 13:34:06,056 - INFO - Prediction: 1.952
+2023-05-27 13:34:06,328 - INFO - Received URL: https://www.google.com/
+2023-05-27 13:34:06,328 - INFO - Extracted features: [14, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 17, 1, 1]
+2023-05-27 13:34:06,401 - INFO - Prediction: 1.952
+2023-05-28 07:43:49,894 - INFO - Received URL: https://xhamster2.com/
+2023-05-28 07:43:49,894 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-28 07:43:49,988 - INFO - Prediction: 61.858
+2023-05-28 07:44:06,741 - INFO - Received URL: https://www.google.com/search?q=phishtank&rlz=1C1KNTJ_enLK1047LK1047&oq=phishtank&aqs=chrome.0.0i355i512j46i199i465i512j0i512l8.2732j0j7&sourceid=chrome&ie=UTF-8
+2023-05-28 07:44:06,741 - INFO - Extracted features: [14, 7, 6, 1, 0, 1, 0, 5, 6, 1, 1, 1, 41, 97, 1, 1]
+2023-05-28 07:44:06,810 - INFO - Prediction: 26.28
+2023-05-28 07:44:09,596 - INFO - Received URL: https://www.google.com/search?q=phishtank&rlz=1C1KNTJ_enLK1047LK1047&oq=phishtank&aqs=chrome.0.0i355i512j46i199i465i512j0i512l8.2732j0j7&sourceid=chrome&ie=UTF-8
+2023-05-28 07:44:09,596 - INFO - Extracted features: [14, 7, 6, 1, 0, 1, 0, 5, 6, 1, 1, 1, 41, 97, 1, 1]
+2023-05-28 07:44:09,658 - INFO - Prediction: 26.28
+2023-05-28 07:44:19,049 - INFO - Received URL: https://phishtank.org/
+2023-05-28 07:44:19,050 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 17, 1, 1]
+2023-05-28 07:44:19,106 - INFO - Prediction: 54.928
+2023-05-28 07:44:27,142 - INFO - Received URL: https://www.youtube.com/watch?v=Ve2QdzyrHI0
+2023-05-28 07:44:27,142 - INFO - Extracted features: [15, 6, 5, 0, 0, 1, 0, 2, 1, 1, 1, 1, 2, 33, 1, 1]
+2023-05-28 07:44:27,214 - INFO - Prediction: 0.927
+2023-05-28 07:51:22,557 - INFO - Received URL: https://www.youtube.com/
+2023-05-28 07:51:22,557 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-28 07:51:22,659 - INFO - Prediction: 1.768
+2023-05-28 07:51:30,435 - INFO - Received URL: https://www.youtube.com/
+2023-05-28 07:51:30,435 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-28 07:51:30,515 - INFO - Prediction: 1.768
+2023-05-28 07:51:30,519 - INFO - Received URL: https://www.youtube.com/watch?v=u7lRMJMsBNs
+2023-05-28 07:51:30,519 - INFO - Extracted features: [15, 6, 5, 0, 0, 1, 0, 2, 1, 1, 1, 1, 1, 34, 1, 1]
+2023-05-28 07:51:30,602 - INFO - Prediction: 1.052
+2023-05-28 07:52:00,880 - INFO - Received URL: https://www.google.com/
+2023-05-28 07:52:00,880 - INFO - Extracted features: [14, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 17, 1, 1]
+2023-05-28 07:52:00,953 - INFO - Prediction: 1.952
+2023-05-28 07:52:01,265 - INFO - Received URL: https://www.google.com/
+2023-05-28 07:52:01,265 - INFO - Extracted features: [14, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 17, 1, 1]
+2023-05-28 07:52:01,346 - INFO - Prediction: 1.952
+2023-05-28 07:52:07,023 - INFO - Received URL: https://accounts.google.com/v3/signin/identifier?dsh=S202367077%3A1685240521725248&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=Af_xneEV8B2PcEeEqjTTONv4zGK8gQNUeu9XJF2VdMvzjo0r7xVxWqzZGsNRlWLWLyJh1IPLddrSHA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2023-05-28 07:52:07,023 - INFO - Extracted features: [19, 21, 2, 0, 0, 1, 5, 4, 8, 2, 2, 1, 40, 211, 3, 1]
+2023-05-28 07:52:07,102 - INFO - Prediction: 13.836
+2023-05-28 07:52:12,445 - INFO - Received URL: https://accounts.google.com/v3/signin/identifier?dsh=S202367077%3A1685240521725248&continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=Af_xneEV8B2PcEeEqjTTONv4zGK8gQNUeu9XJF2VdMvzjo0r7xVxWqzZGsNRlWLWLyJh1IPLddrSHA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+2023-05-28 07:52:12,445 - INFO - Extracted features: [19, 21, 2, 0, 0, 1, 5, 4, 8, 2, 2, 1, 40, 211, 3, 1]
+2023-05-28 07:52:12,517 - INFO - Prediction: 13.836
+2023-05-28 08:37:54,957 - INFO - Received URL: https://sg-dbsbank.shop/
+2023-05-28 08:37:54,957 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-28 08:37:55,140 - INFO - Prediction: 60.656
+2023-05-28 08:37:59,698 - INFO - Received URL: https://sg-dbsbank.shop/
+2023-05-28 08:37:59,698 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-28 08:37:59,764 - INFO - Prediction: 60.656
+2023-05-28 08:40:08,606 - INFO - Received URL: https://sg-dbsbank.shop/
+2023-05-28 08:40:08,607 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-28 08:40:08,760 - INFO - Prediction: 60.656
+2023-05-28 10:00:21,701 - INFO - Received URL: https://sg-dbsbank.shop/
+2023-05-28 10:00:21,702 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-28 10:00:22,004 - INFO - Prediction: 60.656
+2023-05-28 10:01:03,243 - INFO - Received URL: https://www.youtube.com/
+2023-05-28 10:01:03,243 - INFO - Extracted features: [15, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0, 18, 1, 1]
+2023-05-28 10:01:03,320 - INFO - Prediction: 1.768
+2023-05-28 10:01:14,751 - INFO - Received URL: https://xhamster2.com/
+2023-05-28 10:01:14,751 - INFO - Extracted features: [13, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 16, 1, 1]
+2023-05-28 10:01:14,865 - INFO - Prediction: 61.858
+2023-05-28 16:33:32,689 - INFO - Received URL: https://sg-dbsbank.shop/
+2023-05-28 16:33:32,691 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-28 16:33:33,166 - INFO - Prediction: 60.656
+2023-05-28 16:35:40,995 - INFO - Received URL: https://casmelot-exchanges.com/
+2023-05-28 16:35:40,996 - INFO - Extracted features: [22, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 25, 1, 1]
+2023-05-28 16:35:41,422 - INFO - Prediction: 66.675
+2023-05-29 10:36:51,916 - INFO - Received URL: https://dbsbank-sg.best/
+2023-05-29 10:36:51,916 - INFO - Extracted features: [15, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 18, 1, 1]
+2023-05-29 10:36:52,457 - INFO - Prediction: 60.656
